@@ -14,5 +14,7 @@ body{
 }
 
 .cabecalho{
-
+    display: flex;
+    flex-direction: row;
+    
 }
