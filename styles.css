@@ -52,4 +52,12 @@ body{
 .conteudo-principal-escrito{
     display: flex;
     flex-direction: column;
+    gap: 32px;
+}
+
+.conteudo-principal-escrito-titulo{
+    font-family: "Righteous", sans-serif;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FFF2E7;
 }
