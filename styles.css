@@ -68,3 +68,9 @@ body{
     font-size: 24px;
     color: #FFF2E7;
 }
+
+.conteudo-principal-escrito-botao{
+    background-color: #ECD6C4;
+    width: 180px;
+    height: 60px;
+}
