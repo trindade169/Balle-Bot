@@ -29,3 +29,8 @@ body{
     display: flex;
     gap: 32px;
 }
+
+.cabecalho-menu-item{
+    font-family: "Sarala", sans-serif;
+
+}
