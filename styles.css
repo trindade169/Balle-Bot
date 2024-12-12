@@ -48,3 +48,8 @@ body{
     align-items: center;
     justify-content: space-around;
 }
+
+.conteudo-principal-escrito{
+    display: flex;
+    flex-direction: column;
+}
