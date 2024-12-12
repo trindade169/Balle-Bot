@@ -56,7 +56,7 @@ body{
 }
 
 .conteudo-principal-escrito-titulo{
-    font-family: "Righteous", sans-serif;
+    font-family: "Righteous", cursive;
     font-weight: 400;
     font-size: 64px;
     color: #FFF2E7;
@@ -97,5 +97,17 @@ body{
 .conteudo-secundario-titulo{
     border-top: 0.4px solid #FFF2E7;
     padding-top: 48px;
+    font-family: "Righteous", cursive;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFF2E7;
+    margin-bottom: 16px;
+}
+
+.conteudo-secundario-paragrafo{
+    font-family: "Sarala", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ECD6C4;
     
 }
