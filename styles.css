@@ -91,7 +91,7 @@ body{
     right: 430px;
 }
 
-.conteudo-secundario-titulo{
+.conteudo-secundario{
     display: flex;
     flex-direction: column;
 }
