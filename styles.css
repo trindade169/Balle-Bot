@@ -82,6 +82,11 @@ body{
     color: #2F2325;
 }
 
+.conteudo-principal-escrito-botao :hover{
+    background-color: rgb(236 , 214, 196, 0.53);
+
+}
+
 .conteudo-principal-imagem{
     right: 430px;
 }
