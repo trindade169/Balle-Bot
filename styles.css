@@ -33,4 +33,10 @@ body{
 .cabecalho-menu-item{
     font-family: "Sarala", sans-serif;
     color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.conteudo{
+    border-top: 0.4px solid #FFF2E7;
 }
